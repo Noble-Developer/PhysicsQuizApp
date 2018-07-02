@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Physics Quiz App</string>
+
+    <string name="app_n">PHYSICS QUIZ</string>
+    <string name="your_name">Your Name</string>
+    <string name="instruction">Select the most appropriate answer from the given alternatives for each question:</string>
+    <string name="q1">1. The average kinetic energy of a gas molecule is?</string>
+    <string name="q2">2. Which of the following are true about Velocity?</string>
+    <string name="q3">3. If the earth stops rotating, the value of ‘g’ at the equator will?</string>
+    <string name="q4">4. The distance between two successive nodes of a stationary wave of frequency 1000 Hz is</string>
+    <string name="q5">5. Speed is a vector quantity.</string>
+    <string name="submit">Submit Your Answer</string>
+    <string name="your_ans">Your Answer</string>
+</resources>
